@@ -1,0 +1,39 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+# --
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# --
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+# --
+
+# IDEs
+.idea/
+.vscode/
+# --
+
+# Testing
+.pytest_cache/
+.coverage
+# --
+
+# Environment variables
+.env
+*.env
+# --
+
+notebooks/arxiv-data-dump/
+notebooks/forum-notes/
+notebooks/grobid_pipeline_output
+
